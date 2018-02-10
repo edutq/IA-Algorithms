@@ -8,8 +8,8 @@ int main()
 
 	int res;
 
-	scanf("%i", &num1);
-	scanf("%i", &num2);
+	scanf("%i*c", &num1);
+	scanf("%i*c", &num2);
 
 	res = num1 + num2;
 
